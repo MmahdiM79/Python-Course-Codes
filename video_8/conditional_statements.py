@@ -2,6 +2,9 @@ from os import system
 system('clear')
 
 
+
+
+
 # boolean
 # a = True
 # b = False
@@ -26,6 +29,7 @@ system('clear')
 # if False:
 #     print('True')
 # print('False')
+
 
 
 
@@ -67,8 +71,6 @@ system('clear')
     
     
     
-
-
 
 # a = int(input())
 # b = int(input())
